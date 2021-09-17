@@ -1,0 +1,12 @@
+.sub-menu i{
+    color: rgb(255, 166, 0);
+}
+.sub-of-sub-menu i{
+    color: red;
+}
+.error {
+    color: red;
+}
+.fas{
+    color: rgb(255, 255, 255);
+}
